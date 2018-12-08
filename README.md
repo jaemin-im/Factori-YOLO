@@ -8,7 +8,7 @@ Factori-YOLO is the Object Detection Model, will be used to detect various struc
 
 For now, Factori-YOLO detects a few structures(labels):
 
-* Assembling Machine Mk2 (Factorio Vanilla)
+* Assembling Machines (Factorio Vanilla) (Now, Mk2 and Mk3 are used)
 * Factory Mk1 (Factorio mod: Factorissimo)
 
 Next will be added in future:
